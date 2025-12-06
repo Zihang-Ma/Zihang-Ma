@@ -2,7 +2,7 @@
 
 My name is Zihang Ma (or Ma Zihang, whatever you like).
 
-I'm a junior undergraduate student majoring in Information Management and Information Systems at Tianjin University.\\
+I'm a junior undergraduate student majoring in Information Management and Information Systems at Tianjin University.
 
 Currently, I'm working as a research assistant at the TJU RL-lab.
 

@@ -16,6 +16,7 @@ Contact me at 3130338300@qq.com/3023209299@tju.edu.cn, please feel free to do so
 I'm learning:
 - [动手学强化学习 (Hands-on Reinforcement Learning)](https://github.com/junnannie/RL) - Reinforcement learning algorithms and implementations
 - [动手学深度学习 (Dive into Deep Learning)](https://github.com/d2l-ai/d2l-zh) - Deep learning fundamentals and practices
+- [动手学机器学习（Learning machine learning from scratch）](https://github.com/datawhalechina/hml-solutions) - Fundamentals and implementation of Machine learning
 - [CS329S: ML Deployment Tutorial](https://github.com/mrdbourke/cs329s-ml-deployment-tutorial) - Machine learning deployment strategies
 - [Stanford CS336: Foundation Models](https://github.com/stanford-cs336) - Foundation models and large language models
 

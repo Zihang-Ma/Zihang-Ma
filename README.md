@@ -7,8 +7,7 @@ I currently work as a research assistant in the Deep Reinforcement Learning Lab 
 Contact: 3130338300@qq.com · 3023209299@tju.edu.cn
 
 ### 🛰️ Research Interests
-- LLM-based agent
-- Post-training
+- NLP
 
 ### 🧠 Currently Learning
 - [动手学强化学习](https://github.com/junnannie/RL)

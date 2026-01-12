@@ -7,9 +7,9 @@ I currently work as a research assistant in the Deep Reinforcement Learning Lab 
 Contact: 3130338300@qq.com · 3023209299@tju.edu.cn
 
 ### 🛰️ Research Interests
-- agent memory
-- coding agent
-- heuristic-algo design
+- llm-based agent memory
+- coding/embodied/trading agent
+- heuristic-algo designing
 
 ### 💾 About Me
 > “I'm not particularly good at math, English, or programming, but I love learning.”

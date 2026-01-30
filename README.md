@@ -10,7 +10,6 @@ Contact: 3130338300@qq.com · 3023209299@tju.edu.cn
 - token-level/latent/parametic agent memory
 - coding/trading llm-based agent
 - trading augmented with machine-learning
-- heuristic-algorithm designing
 
 ### 🔥 News
 coming soooooooooooooooon~

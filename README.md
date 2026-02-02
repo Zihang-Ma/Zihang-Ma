@@ -9,7 +9,7 @@ Contact: 3130338300@qq.com · 3023209299@tju.edu.cn
 ### 🛰️ Research Interests
 - agent memory
 - coding/trading agent
-- quant trading
+- quant trading augmented with ml
 
 ### 🔥 News
 coming soooooooooooooooon~

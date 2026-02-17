@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Zihang Ma ("梓航 马" in Chinese), an undergraduate at Tianjin University majoring in Information Management & Information Systems. 
+I'm Zihang Ma ("梓航 马" in Chinese；Zihang/梓航 is my first name), an undergraduate at Tianjin University majoring in Information Management & Information Systems. 
 
 I currently work as a research assistant in the Deep Reinforcement Learning Lab (DRL-LAB).
 

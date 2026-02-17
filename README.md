@@ -7,7 +7,7 @@
 
 ### 🐎 About me
 
-I'm **Zihang Ma** ("梓航 马" in Chines; Zihang/梓航 is my first name).
+I'm **Zihang Ma** ("梓航 马" in CHINESE; Zihang/梓航 is my first name).
 
 An undergraduate at **Tianjin University** majoring in **Information Management & Information Systems**.
 

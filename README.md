@@ -1,10 +1,8 @@
 <div align="center">
 
   <!-- 淡绿色渐变横幅 -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:98D8C8,100:B8E6D5&height=250&section=header&text=Zihang-Ma&fontSize=90&fontAlignY=35&animation=fadeIn&fontColor=ffffff&desc=hi%20there!&descAlignY=55&descSize=30&descColor=2D5F3F" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:98D8C8,100:B8E6D5&height=250&section=header&text=Zihang-Ma&fontSize=90&fontAlignY=35&animation=fadeIn&fontColor=ffffff />
 
-  <!-- 动态打字效果 -->
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2000&pause=500&color=6BCB77&center=true&vCenter=true&width=600&lines=Undergraduate+%7C+TJU+Student;DRL-LAB+Research+Assistant;Exploring+Agent+Memory+%26+Coding+Agents)](https://git.io/typing-svg)
 
 </div>
 

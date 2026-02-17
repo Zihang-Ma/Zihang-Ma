@@ -7,13 +7,9 @@
 
 ### 🐎 About me
 
-I'm **Zihang Ma** ("梓航 马" in Chinese；Zihang/梓航 is my first name)
+I'm **Zihang Ma** ("梓航 马" in Chines; Zihang/梓航 is my first name), an undergraduate at **Tianjin University** majoring in **Information Management & Information Systems**.
 
-An undergraduate at **Tianjin University** majoring in **Information Management & Information Systems**.
-
-I currently work as a research assistant in the **Deep Reinforcement Learning Lab (DRL-LAB)**.
-
-Contact me at 3130338300@qq.com / 3023209299@tju.edu.cn
+I currently work as a research assistant in the **Deep Reinforcement Learning Lab (DRL-LAB)**. Please **feel free** to contact me at 3130338300@qq.com / 3023209299@tju.edu.cn
 
 ### 🛰️ Research interests
 

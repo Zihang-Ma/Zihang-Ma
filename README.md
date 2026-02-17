@@ -6,12 +6,6 @@
   <!-- 动态打字效果 -->
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2000&pause=500&color=6BCB77&center=true&vCenter=true&width=600&lines=Undergraduate+%7C+TJU+Student;DRL-LAB+Research+Assistant;Exploring+Agent+Memory+%26+Coding+Agents)](https://git.io/typing-svg)
 
-  <!-- 社交媒体按钮 -->
-  <p align="center">
-    <a href="mailto:3130338300@qq.com"><img src="https://img.shields.io/badge/QQ邮箱-6BCB77?style=for-the-badge&logo=gmail&logoColor=white" alt="QQ Email"/></a>
-    <a href="mailto:3023209299@tju.edu.cn"><img src="https://img.shields.io/badge/TJU邮箱-98D8C8?style=for-the-badge&logo=gmail&logoColor=white" alt="TJU Email"/></a>
-  </p>
-
 </div>
 
 <!-- 分隔线 -->
@@ -29,6 +23,8 @@ I'm **Zihang Ma** ("梓航 马" in Chinese；Zihang/梓航 is my first name)
 An undergraduate at **Tianjin University** majoring in **Information Management & Information Systems**.
 
 I currently work as a research assistant in the **Deep Reinforcement Learning Lab (DRL-LAB)**.
+
+Contact me at 3130338300@qq.com / 3023209299@tju.edu.cn
 
 </div>
 

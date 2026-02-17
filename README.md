@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- 淡绿色渐变横幅 -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:98D8C8,100:B8E6D5&height=250&section=header&text=Zihang-Ma&fontSize=90&fontAlignY=35&animation=fadeIn&fontColor=ffffff&desc=hi%20there!&descAlignY=55&descSize=30&descColor=2D5F3F" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:98D8C8,100:B8E6D5&height=250&section=header&text=👋+hi%20there&fontSize=90&fontAlignY=40&animation=fadeIn&fontColor=ffffff" />
 
 
 </div>

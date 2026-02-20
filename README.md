@@ -7,9 +7,9 @@
 
 ### 🐎 About me
 
-I'm **Zihang Ma** ("梓航 马" in CHINESE; Zihang/梓航 is my first name).
+I'm **Zihang Ma** (written as "马梓航" in Chinese; "Ma" is my family name, which means "horse" in Chinese; Zihang is my given name).
 
-An undergraduate at **Tianjin University** majoring in **Information Management & Information Systems**.
+An undergraduate at College Of Management and Economics in **Tianjin University** majoring in **Information Management & Information Systems**.
 
 I currently work as a research assistant in the **Deep Reinforcement Learning Lab (DRL-LAB)**. 
 

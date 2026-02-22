@@ -7,13 +7,13 @@
 
 ### 🐎 About me
 
-I'm **Zihang Ma** (written as "马梓航" in Chinese; "Ma" is my family name, which means "horse" in Chinese; Zihang is my given name).
+I'm **Zihang Ma** (written as "马梓航" in Chinese; "Ma"/"马" is my family name, which means "horse" in Chinese; "Zihang"/"梓航" is my given name)
 
-An undergraduate student at the **College of Management and Economics, Tianjin University**, majoring in **Information Management and Information Systems**.
+An undergraduate student at the **College of Management and Economics, Tianjin University**, majoring in **Information Management and Information Systems**
 
-I currently work as a research assistant in the **Deep Reinforcement Learning Lab (DRL-LAB)**. 
+Now currently working as a research assistant in the **Deep Reinforcement Learning Lab (DRL-LAB)**.
 
-Please **feel free** to contact me at 3130338300@qq.com (3023209299@tju.edu.cn).
+Please **feel free** to contact me at 3130338300@qq.com/3023209299@tju.edu.cn
 
 ### 🛰️ Research interests
 

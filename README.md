@@ -19,7 +19,7 @@ Please **feel free** to contact me at 3130338300@qq.com/3023209299@tju.edu.cn.
 
 #### **Agent Infra**
 - Agent Memory
-- Coding Agent
+- Coding Agent Infra
 
 ### 🔥 News
 

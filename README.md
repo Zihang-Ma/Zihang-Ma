@@ -7,7 +7,7 @@
 
 ### 🐎 About me
 
-I'm **Zihang Ma** (written as "马梓航" in Chinese; "Ma"/"马" is my family name, which means "horse" in Chinese; "Zihang"/"梓航" is my given name);
+I'm **Zihang Ma** (written as "马梓航" in Chinese; "Ma"/"马" is my surname, which means "horse" in Chinese; "Zihang"/"梓航" is my given name);
 
 An undergraduate student at the **College of Management and Economics, Tianjin University**, majoring in **Management of Information Systems (管理信息系统)**;
 

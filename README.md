@@ -9,7 +9,7 @@
 
 I'm **Zihang Ma** (written as "马梓航" in Chinese; "Ma"/"马" is my family name, which means "horse" in Chinese; "Zihang"/"梓航" is my given name);
 
-An undergraduate student at the **College of Management and Economics, Tianjin University**, majoring in **Information Management and Information Systems**;
+An undergraduate student at the **College of Management and Economics, Tianjin University**, majoring in **Management of Information Systems (管理信息系统)**;
 
 Now currently working as a research assistant in the **Deep Reinforcement Learning Lab (DRL-LAB)**;
 
@@ -17,9 +17,9 @@ Please **feel free** to contact me at 3130338300@qq.com/3023209299@tju.edu.cn.
 
 ### 🛰️ Research interests
 
-#### **Agent Infra**
+#### **Agent**
 - Agent Memory
-- Coding Agent Infra
+- Agent Harness
 
 ### 🔥 News
 

@@ -23,6 +23,7 @@ Please **feel free** to contact me at 3130338300@qq.com/3023209299@tju.edu.cn.
 
 #### **LLM**
 - RAG (currently viewed more as a design paradigm for tools/actions)
+- LLM Inference Optimization
 
 #### **Rec**
 - Generative Recommendation

@@ -15,20 +15,6 @@ Currently working as a research assistant in the **[Deep Reinforcement Learning 
 
 Please **feel free** to contact me at 3130338300@qq.com/3023209299@tju.edu.cn.
 
-### 🛰️ Research interests
-
-#### **Agent**
-- Agent Memory
-- Agent Infra (actually including "Agent Memory")
-
-#### **LM**
-- RAG
-- Model Quantization, Speculative Decoding, etc
-
-#### **Rec**
-- Generative Recommendation
-- Traditional Recommendation
-
 ### 🔥 News
 
 *coming soooooooooooooooon~*

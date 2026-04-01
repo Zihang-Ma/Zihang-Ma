@@ -10,6 +10,11 @@ Currently working as a research assistant in the **[Deep Reinforcement Learning 
 
 Please **feel free** to contact me at 3130338300@qq.com/3023209299@tju.edu.cn.
 
+### 🔬 Research interests
+
+- Agent memory (typically as a part of Agent harness)
+- Agent harness
+
 ### 🛠️ Languages
 
 **Read & Write**
@@ -28,3 +33,7 @@ Please **feel free** to contact me at 3130338300@qq.com/3023209299@tju.edu.cn.
   <a href="https://dotnet.microsoft.com/en-us/languages/csharp" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=cs" alt="csharp" width="40" height="40"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/></a>
 </p>
+
+### 🔥 NEWS!!!
+
+*coming soon~*

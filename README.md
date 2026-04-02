@@ -25,7 +25,7 @@ Please **feel free** to contact me at 3130338300@qq.com/3023209299@tju.edu.cn.
   <a href="https://huggingface.co/docs/transformers/index" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/huggingface/FCC624" alt="transformers" width="40" height="40"/></a>
   <a href="https://www.langchain.com/langgraph" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/langchain/1C3C3C" alt="langgraph" width="40" height="40"/></a>
   <a href="https://docs.anthropic.com/en/docs/claude-code/sdk" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/anthropic/191919" alt="claude agent sdk" width="40" height="40"/></a>
-  <a href="https://openai.github.io/openai-agents-python/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/openai/412991" alt="openai agent sdk" width="40" height="40"/></a>
+  <a href="https://openai.github.io/openai-agents-python/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg" alt="openai agent sdk" width="40" height="40"/></a>
 </p>
 
 ### 🔥 NEWS!!!

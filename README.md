@@ -27,6 +27,7 @@ Note: `LangChain` and `LangGraph` use the same icon.
   <a href="https://www.langchain.com/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/langchain/1C3C3C" alt="langchain" width="40" height="40"/></a>
   <a href="https://www.langchain.com/langgraph" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/langchain/1C3C3C" alt="langgraph" width="40" height="40"/></a>
   <a href="https://docs.anthropic.com/en/docs/claude-code/sdk" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/anthropic/191919" alt="claude agent sdk" width="40" height="40"/></a>
+  <a href="https://openai.github.io/openai-agents-python/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/6/66/OpenAI_logo_2025_%28symbol%29.svg" alt="openai agent sdk" width="40" height="40"/></a>
 </p>
 
 ### 🔥 NEWS!!!

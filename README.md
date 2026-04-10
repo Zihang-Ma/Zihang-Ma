@@ -20,7 +20,7 @@ Please **feel free** to contact me at 3130338300@qq.com/3023209299@tju.edu.cn.
 
 ### 🔩 Tools
 
-Note: `LangChain` and `LangGraph` use the same icon.
+Note: `LangChain` and `LangGraph` share the same icon.
 
 <p align="left">
   <a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/pytorch/EE4C2C" alt="pytorch" width="40" height="40"/></a>

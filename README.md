@@ -10,27 +10,6 @@ Currently working as a research assistant in the **[Deep Reinforcement Learning 
 
 Please **feel free** to contact me at 3130338300@qq.com/3023209299@tju.edu.cn.
 
-### 🛠️ Languages
-
-<p align="left">
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/></a>
-  <a href="https://www.typescriptlang.org" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/></a>
-</p>
-
-### 🔩 Tools
-
-Note: `LangChain` and `LangGraph` share the same icon.
-
-<p align="left">
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/pytorch/EE4C2C" alt="pytorch" width="40" height="40"/></a>
-  <a href="https://huggingface.co/docs/transformers/index" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/huggingface/FCC624" alt="transformers" width="40" height="40"/></a>
-  <a href="https://www.langchain.com/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/langchain/1C3C3C" alt="langchain" width="40" height="40"/></a>
-  <a href="https://www.langchain.com/langgraph" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/langchain/1C3C3C" alt="langgraph" width="40" height="40"/></a>
-  <a href="https://docs.anthropic.com/en/docs/claude-code/sdk" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/anthropic/191919" alt="claude agent sdk" width="40" height="40"/></a>
-  <a href="https://openai.github.io/openai-agents-python/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/6/66/OpenAI_logo_2025_%28symbol%29.svg" alt="openai agent sdk" width="40" height="40"/></a>
-</p>
-
 ### 🔥 NEWS!!!
 
 *coming soon~*

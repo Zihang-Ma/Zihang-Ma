@@ -12,9 +12,9 @@ Please **feel free** to contact me at 3130338300@qq.com / 3023209299@tju.edu.cn.
 
 ### 🔬 Research interest
 
-My current research focuses on **agent memory**, **agent runtime framework**, and **agent harness**. 
+My current research focuses on **Agent Memory**, **Agent Runtime Framework**, and **Agent Harness**. 
 
-While continuing to deepen my expertise in **AGENT**, I am also preparing to branch out into broader directions within **small or large model** research.
+While continuing to deepen my expertise in **AGENT**, I am also preparing to branch out into broader directions within **small/large language model (SLM/LLM)** research.
 
 ### 🔥 NEWS!!!
 

@@ -18,4 +18,4 @@ While continuing to deepen my expertise in **AGENT**, I am also preparing to bra
 
 ### 🔥 NEWS!!!
 
-*coming soon~*
+- 11 Apr 2026 | Our work *Benchmarking Continual Agent Memory for Online Learning, Transfer, and Forgetting* has been accepted as a **poster presentation** at the ICLR 2026 LLA Workshop. I serve as the **co-first author** of this work.

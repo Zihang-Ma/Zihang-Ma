@@ -14,8 +14,6 @@ Please **feel free** to contact me at 3130338300@qq.com / 3023209299@tju.edu.cn.
 
 My current research focuses on **Agent Memory**, **Agent Runtime Framework**, and **Agent Harness**. 
 
-While continuing to deepen my expertise in **AGENT**, I am also preparing to branch out into broader directions within **small/large language model (SLM/LLM)** research.
-
 ### 🔥 NEWS!!!
 
 - 11 Apr 2026 | Our work *Benchmarking Continual Agent Memory for Online Learning, Transfer, and Forgetting* has been accepted as a **poster presentation** at the ICLR 2026 LLA Workshop. I serve as the **co-first author** of this work.

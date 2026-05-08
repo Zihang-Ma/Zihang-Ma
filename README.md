@@ -10,10 +10,6 @@ Currently, I work as a research assistant at the **[Deep Reinforcement Learning 
 
 Please **feel free** to contact me at 3130338300@qq.com / 3023209299@tju.edu.cn.
 
-### 🔬 Research interest
-
-My current research focuses on **Agent Memory**, **Agent Runtime Framework**, and **Agent Harness**. 
-
 ### 🔥 NEWS!!!
 
 - 11 Apr 2026 | Our work *Benchmarking Continual Agent Memory for Online Learning, Transfer, and Forgetting* has been accepted as a **poster presentation** at the ICLR 2026 LLA Workshop. I serve as the **co-first author** of this work.
